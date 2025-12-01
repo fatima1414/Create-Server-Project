@@ -10,5 +10,13 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatima1414/Create-Server-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fatima1414/Create-Server-Project/issues"
+  },
+  "homepage": "https://github.com/fatima1414/Create-Server-Project#readme",
   "description": ""
 }
